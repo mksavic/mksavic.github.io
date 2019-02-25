@@ -40,7 +40,7 @@ I've also included some things I tried, failed at, tried again, and ended up get
 |:------:|:------------------:|:----------:|
 | SU '16 |  BP3 Global, Inc.  | Internship |
 | SU '17 | Duo Security, Inc. | Internship |
-|  2018  |       Piazza       | Full-Time  |
 |  2018  |   Arbor Networks   | Full-Time  |
+|  2018  |       Piazza       | Full-Time  |
 
 ## Paper Rejections: 1
