@@ -6,8 +6,6 @@ layout: default
 
 I originally saw this on [Matt Bernhard](https://mbernhard.com/)'s page, who got the idea from [Johannes Haushofer](https://www.washingtonpost.com/news/wonk/wp/2016/04/28/it-feels-really-good-to-read-about-this-princeton-professors-failures/), who got the idea from [Melanie Stefan](https://www.nature.com/naturejobs/science/articles/10.1038/nj7322-467a).
 
-I've also included some things I tried, failed at, tried again, and ended up getting. After suffering from imposter syndrome for the majority of my undergraduate career, I'm hoping that by posting this, students who are experincing what I experienced are encouraged to continue trying. I've also posted some denial letters to show that, yes, they sucked to receive and read, but in the end, I've gotten past them and accomplished other things.
-
 ## Master's Programs I Did Not Get Into:
 
 | Year |         Program         |              University               |                     Letter                     |
