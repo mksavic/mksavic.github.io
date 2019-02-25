@@ -1,15 +1,16 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Melisa Savich
+url: "https://mksavic.github.io/"
+baseurl: ""
 
 markdown: kramdown
+favicon: yes
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Design by Ankit Sultana"
 
 sass:
     style: compressed
@@ -17,8 +18,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
+ - name: "CV of Failures"
+   link: "failures"
  - name: "Contact"
    link: "contact"

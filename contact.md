@@ -3,24 +3,16 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+# Contact
 
-* Phone: [+91-123123](tel:+91-123123)
+## For Important Stuff
 
----
+* Email: ~~msavich AT umich DOT edu~~ mksavic AT nyu DOT edu
 
-## Mailing Address
+## Follow Me
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Github](https://github.com/mksavic)
+2. [Google Scholar](https://scholar.google.com/citations?user=G0qu08MAAAAJ)
+3. [Instagram](https://www.instagram.com/m3lixir/)
+4. [LinkedIn](https://www.linkedin.com/in/mksavic/)
+5. [Twitter](https://twitter.com/m3lixir)
