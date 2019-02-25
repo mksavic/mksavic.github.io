@@ -19,7 +19,7 @@ I've also included some things I tried, failed at, tried again, and ended up get
 
 ## Bachelor's Programs I Did Not Get Into:
 
-\* **Disclaimer**: I literally only applied to two schools: University of Michigan-Dearborn and University of Michigan.
+\* **Disclaimer:** I literally only applied to two schools: University of Michigan-Dearborn and University of Michigan.
 
 | Year |       University       |  Letter |
 |:----:|:----------------------:|:-------:|
@@ -27,18 +27,18 @@ I've also included some things I tried, failed at, tried again, and ended up get
 
 ## Teaching/Grading Positions I Did Not Get:
 
-| Semester |       University       |                   Course                   | Position |                Letter                 |
-|----------|------------------------|--------------------------------------------|----------|:---------------------------------------:|
-|  WN '16  | University of Michigan | EECS 183 - Elementary Programming Concepts |  Grader  | [denial] |
-|  WN '16  | University of Michigan | EECS 183 - Elementary Programming Concepts |    IA    | [deferral]<br>[denial]<br>[hope]<br>[yey] |
+\* **Disclaimer:** I interviewed the following semester for an EECS 183 IA position, and was offered one.
 
-## Jobs I Did Not Get:
+| Semester |       University       |                   Course                   | Position |
+|:--------:|:----------------------:|:------------------------------------------:|:--------:|
+|  WN '16  | University of Michigan | EECS 183 - Elementary Programming Concepts |  Grader  |
+|  WN '16  | University of Michigan | EECS 183 - Elementary Programming Concepts |    IA    |
 
-I don't have any official denial emails, I was either told over the phone or just left hanging. I interviewed with Amazon, but have no record of it. I applied to Google as well.
+## Internships/Jobs I Did Not Get:
 
 |  Year  |      Company       |  Position  |
-|--------|--------------------|:----------:|
-| SU '16 |        BP3         | Internship |
+|:------:|:------------------:|:----------:|
+| SU '16 |  BP3 Global, Inc.  | Internship |
 | SU '17 | Duo Security, Inc. | Internship |
 |  2018  |       Piazza       | Full-Time  |
 |  2018  |   Arbor Networks   | Full-Time  |
