@@ -20,7 +20,7 @@ nav:
  - name: "About"
    link: "/"
  - name: "CV"
-   link: "cv"
+   link: "cv.pdf"
  - name: "CV of Failures"
    link: "failures"
  - name: "Contact"
