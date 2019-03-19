@@ -2,8 +2,6 @@
 layout: default
 ---
 
-> This summer, I'll be working at Sandia National Labs. However, I am looking for a summer research project. [Let me know](/contact) if you would like to collaborate!
-
 ## About Me
 
 <img class="profile-picture" src="mksavic.jpg">
