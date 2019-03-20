@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me
+# About Me
 
 <img class="profile-picture" src="mksavic.jpg">
 
@@ -13,3 +13,12 @@ I am a first-year graduate student working towards my Master's in Computer Scien
 1. <a href="/pubs/CommPact.pdf" target="_blank">**CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts**</a>  
    J. Erickson, S. Chen, M. Savich, S. Hu and Z. M. Mao  
    *2018 IEEE Vehicular Networking Conference (VNC)*, December 2018
+
+## Teaching Experience
+
+| Semester |         School         |                         Course                          |
+|:--------:|:----------------------:|:-------------------------------------------------------:|
+|  WN '18  | University of Michigan |      EECS 388 - Introduction to Computer Security       |
+|  FA '17  | University of Michigan |      EECS 388 - Introduction to Computer Security       |
+|  WN '17  | University of Michigan | EECS 280 - Programming and Introductory Data Structures |
+|  FA '16  | University of Michigan | EECS 280 - Programming and Introductory Data Structures |
