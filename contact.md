@@ -7,7 +7,7 @@ is_contact: true
 
 ## For Important Stuff
 
-* Email: ~~msavich AT umich DOT edu~~ mksavic AT nyu DOT edu
+* Email: mksavic AT nyu DOT edu
 
 ## Follow Me
 
