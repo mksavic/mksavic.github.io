@@ -13,7 +13,10 @@ I am a first-year graduate student working towards my Master's in Computer Scien
 1. <a href="/pubs/CommPact.pdf" target="_blank">**CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts**</a>  
    J. Erickson, S. Chen, M. Savich, S. Hu and Z. M. Mao  
    *IEEE Vehicular Networking Conference (VNC)*, December 2018
-2. <a href="https://www.escar.info/history/escar-usa/escar-usa-2018-lectures-and-program-committee.html" target="_blank">**CommPact: Exploring the Feasibility of Autonomous Vehicle Contracts**</a>  
+
+## Workshops
+
+1. <a href="https://www.escar.info/history/escar-usa/escar-usa-2018-lectures-and-program-committee.html" target="_blank">**CommPact: Exploring the Feasibility of Autonomous Vehicle Contracts**</a>  
    J. Erickson, M. Savich, S. Chen, M. Pese, S. Hu and Z. M. Mao  
    *escar USA*, June 2018
 
