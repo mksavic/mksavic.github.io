@@ -8,20 +8,20 @@ I originally saw this on [Matt Bernhard](https://mbernhard.com/)'s page, who got
 
 ## Master's Programs I Did Not Get Into:
 
-| Year |         Program         |              University               |                     Letter                     |
-|:----:|:-----------------------:|:-------------------------------------:|:----------------------------------------------:|
-| 2018 |  Computer Science M.S.  | Univ. of Illinois at Urbana-Champaign |   [**[denial]**](/failures/uiuc_denial.pdf)    |
-| 2018 |  Computer Science M.S.  |     University of Texas at Austin     | [**[denial]**](/failures/utaustin_denial.pdf)  |
-| 2018 | Computer Science M.S.E. |         Princeton University          | [**[denial]**](/failures/princeton_denial.pdf) |
-| 2018 |  Computer Science M.S.  |            Yale University            |   [**[denial]**](/failures/yale_denial.pdf)    |
+| Year |         Program         |              University               |                                  Letter                                   |
+|:----:|:-----------------------:|:-------------------------------------:|:-------------------------------------------------------------------------:|
+| 2018 |  Computer Science M.S.  | Univ. of Illinois at Urbana-Champaign |   <a href="/failures/uiuc_denial.pdf" target="_blank">**[denial]**</a>    |
+| 2018 |  Computer Science M.S.  |     University of Texas at Austin     | <a href="/failures/utaustin_denial.pdf" target="_blank">**[denial]**</a>  |
+| 2018 | Computer Science M.S.E. |         Princeton University          | <a href="/failures/princeton_denial.pdf" target="_blank">**[denial]**</a> |
+| 2018 |  Computer Science M.S.  |            Yale University            |   <a href="/failures/yale_denial.pdf" target="_blank">**[denial]**</a>    |
 
 ## Bachelor's Programs I Did Not Get Into:
 
 \* **Disclaimer:** I literally only applied to two schools: University of Michigan-Dearborn and University of Michigan.
 
-| Year |       University       |  Letter |
-|:----:|:----------------------:|:-------:|
-| 2013 | University of Michigan | [**[deferral]**](/failures/umich_deferral.pdf)<br>[**[denial]**](/failures/umich_denial.pdf)<br>[**[!]**](/failures/umich_acceptance.pdf) |
+| Year |       University       | Letter |
+|:----:|:----------------------:|:------:|
+| 2013 | University of Michigan | <a href="/failures/umich_deferral.pdf" target="_blank">**[deferral]**</a><br><a href="/failures/umich_denial.pdf" target="_blank">**[denial]**</a><br><a href="/failures/umich_acceptance.pdf" target="_blank">**[!]**</a> |
 
 ## Teaching/Grading Positions I Did Not Get:
 
