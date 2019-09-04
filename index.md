@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="mksavic.jpg">
 
-I am a first-year graduate student working towards my Master's in Computer Science (with thesis) at NYU's [Tandon School of Engineering](https://engineering.nyu.edu/). My current research focuses on exploring the feasibility and efficiency of taint-driven embedded software fuzzing. I am advised by [Brendan Dolan-Gavitt](http://moyix.net/). I'm also currently working for [Sandia National Laboratories](https://www.sandia.gov/), and am a [Critical Skills Master's Program](https://www.sandia.gov/careers/special_programs/critical_skills_program.html) fellow.
+I am a second-year graduate student working towards my Master's in Computer Science (with thesis) at NYU's [Tandon School of Engineering](https://engineering.nyu.edu/). I currently am exploring the feasibility and efficiency of taint-driven firmware fuzzing. I am also working on a cache side-channel attack project. I am advised by [Brendan Dolan-Gavitt](http://moyix.net/). I'm also currently working for [Sandia National Laboratories](https://www.sandia.gov/), and am a [Critical Skills Master's Program](https://www.sandia.gov/careers/special_programs/critical_skills_program.html) fellow.
 
 ## Publications
 
