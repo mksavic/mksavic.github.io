@@ -21,16 +21,19 @@ is_contact: true
 
 |          Date           |                      Show                      |
 |:-----------------------:|:----------------------------------------------:|
-| 11/08/2019 - 11/10/2019 |                EDC Orlando 2019                |
+|       11/16/2019        |                    Riot Ten                    |
 |       11/23/2019        |                Louis The Child                 |
 |       12/07/2019        |               Alison Wonderland                |
 |       01/01/2020        |                 Field Day 2020                 |
+|       03/13/2020        |                     Ekali                      |
+|       03/14/2020        |                     Ekali                      |
 | 05/14/2020 - 05/17/2020 |          EDC Las Vegas & CampEDC 2020          |
 
 ## Previous Shows
 
 |          Date           |                      Show                      |
 |:-----------------------:|:----------------------------------------------:|
+| 11/08/2019 - 11/10/2019 |                EDC Orlando 2019                |
 | 10/26/2019 - 10/27/2019 |           Fright Night Massive 2019            |
 |       10/01/2019        |        Illenium (Dabin, William Black)         |
 |       09/21/2019        | Illenium (Dabin, Said the Sky, Adventure Club) |
