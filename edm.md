@@ -25,6 +25,7 @@ is_contact: true
 |       11/23/2019        |                Louis The Child                 |
 |       12/07/2019        |               Alison Wonderland                |
 |       01/01/2020        |                 Field Day 2020                 |
+|       01/18/2020        |                    Slander                     |
 |       03/13/2020        |                     Ekali                      |
 |       03/14/2020        |                     Ekali                      |
 | 05/14/2020 - 05/17/2020 |          EDC Las Vegas & CampEDC 2020          |
