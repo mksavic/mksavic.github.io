@@ -31,6 +31,7 @@ is_contact: true
 
 |          Date           |                      Show                      |
 |:-----------------------:|:----------------------------------------------:|
+|       01/11/2020        |             MitiS (Crystal Skies)              |
 |       01/01/2020        |                 Field Day 2020                 |
 |       12/20/2019        |     Parade of Lasers (Bear Grillz, Lucii)      |
 |       12/07/2019        |               Alison Wonderland                |
