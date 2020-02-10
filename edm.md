@@ -34,6 +34,7 @@ is_contact: true
 
 |          Date           |                      Show                      |
 |:-----------------------:|:----------------------------------------------:|
+|       02/08/2020        |   deadmau5 Cube v3 Afters: Testpilot & More    |
 |       02/01/2020        |                    NGHTMRE                     |
 |       01/18/2020        |                    Slander                     |
 |       01/11/2020        |             MitiS (Crystal Skies)              |
