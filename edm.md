@@ -46,7 +46,7 @@ is_contact: true
 |       11/29/2019        |                     Madeon                     |
 |       11/23/2019        |                Louis The Child                 |
 |       11/16/2019        |                    Riot Ten                    |
-|       11/08/2019        |                 Blanke (Holly)                 |
+|       11/08/2019        |     After-Dark Oracle: BLANKE, DNMO, HOLLY     |
 | 11/08/2019 - 11/10/2019 |                EDC Orlando 2019                |
 | 10/26/2019 - 10/27/2019 |           Fright Night Massive 2019            |
 |       10/01/2019        |        Illenium (Dabin, William Black)         |
