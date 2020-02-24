@@ -21,9 +21,11 @@ is_contact: true
 
 |          Date           |                      Show                      |
 |:-----------------------:|:----------------------------------------------:|
+|       02/29/2020        |                   Elephante                    |
 |       03/13/2020        |                     Ekali                      |
 |       03/14/2020        |                     Ekali                      |
-|       04/10/2020        |        Black Tiger Sex Machine (Blanke)        |
+|       03/21/2020        |    Black Tiger Sex Machine (Blanke, Vampa)     |
+|       04/10/2020        |    Black Tiger Sex Machine (Blanke, Vampa)     |
 |       04/16/2020        |      Dabin (Trivecta, Nurko, Last Heroes)      |
 |       04/17/2020        |      Dabin (Trivecta, Nurko, Last Heroes)      |
 |       04/18/2020        |      Dabin (Trivecta, Nurko, Last Heroes)      |
@@ -37,6 +39,7 @@ is_contact: true
 |       02/14/2020        |                   Wax Motif                    |
 |       02/08/2020        |   deadmau5 Cube v3 Afters: Testpilot & More    |
 |       02/01/2020        |                    NGHTMRE                     |
+|       01/31/2020        |                 Ilan Bluestone                 |
 |       01/18/2020        |                    Slander                     |
 |       01/11/2020        |             MitiS (Crystal Skies)              |
 |       01/01/2020        |                 Field Day 2020                 |
