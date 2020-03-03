@@ -21,8 +21,6 @@ is_contact: true
 
 |          Date           |                      Show                      |
 |:-----------------------:|:----------------------------------------------:|
-|       02/29/2020        |                   Elephante                    |
-|       03/13/2020        |                     Ekali                      |
 |       03/14/2020        |                     Ekali                      |
 |       03/21/2020        |    Black Tiger Sex Machine (Blanke, Vampa)     |
 |       04/10/2020        |    Black Tiger Sex Machine (Blanke, Vampa)     |
@@ -35,6 +33,7 @@ is_contact: true
 
 |          Date           |                      Show                      |
 |:-----------------------:|:----------------------------------------------:|
+|       02/29/2020        |                   Elephante                    |
 |       02/15/2020        |                 Kaivon (Inzo)                  |
 |       02/14/2020        |                   Wax Motif                    |
 |       02/08/2020        |   deadmau5 Cube v3 Afters: Testpilot & More    |
