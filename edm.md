@@ -21,11 +21,13 @@ is_contact: true
 
 |          Date           |                      Show                      |
 |:-----------------------:|:----------------------------------------------:|
-|       03/21/2020        |    Black Tiger Sex Machine (Blanke, Vampa)     |
-|       04/10/2020        |    Black Tiger Sex Machine (Blanke, Vampa)     |
-|       04/16/2020        |      Dabin (Trivecta, Nurko, Last Heroes)      |
-|       04/17/2020        |      Dabin (Trivecta, Nurko, Last Heroes)      |
-|       04/18/2020        |      Dabin (Trivecta, Nurko, Last Heroes)      |
+|     ~~03/13/2020~~      |                   ~~Ekali~~                    |
+|     ~~03/14/2020~~      |                   ~~Ekali~~                    |
+|     ~~03/21/2020~~      |  ~~Black Tiger Sex Machine (Blanke, Vampa)~~   |
+|     ~~04/10/2020~~      |  ~~Black Tiger Sex Machine (Blanke, Vampa)~~   |
+|     ~~04/16/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
+|     ~~04/17/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
+|     ~~04/18/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
 | 05/14/2020 - 05/17/2020 |          EDC Las Vegas & CampEDC 2020          |
 
 ## Previous Shows
