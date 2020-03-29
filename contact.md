@@ -11,7 +11,7 @@ is_contact: true
 
 ## Follow Me
 
-1. [Github](https://github.com/mksavic)
+1. [Github](https://github.com/m3lixir)
 2. [Google Scholar](https://scholar.google.com/citations?user=G0qu08MAAAAJ)
 3. [Instagram](https://www.instagram.com/m3lixir/)
 4. [LinkedIn](https://www.linkedin.com/in/mksavic/)
