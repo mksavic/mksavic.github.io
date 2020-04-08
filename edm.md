@@ -27,8 +27,9 @@ is_contact: true
 |     ~~04/16/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
 |     ~~04/17/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
 |     ~~04/18/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
-| 05/14/2020 - 05/17/2020 |          EDC Las Vegas & CampEDC 2020          |
+|     ~~05/14/2020~~      |            ~~Illenium - EDC Week~~             |
 | 09/24/2020 - 09/27/2020 |                   Lost Lands                   |
+| 10/01/2020 - 10/04/2020 |          EDC Las Vegas & CampEDC 2020          |
 
 ## Previous Shows
 
