@@ -10,9 +10,15 @@ I am a second-year graduate student working towards my Master's in Computer Scie
 
 ## Publications
 
-1. <a href="/pubs/CommPact.pdf" target="_blank">**CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts**</a>  
+1. <a href="/papers/CommPact.pdf" target="_blank">**CommPact: Evaluating the Feasibility of Autonomous Vehicle Contracts**</a>  
    J. Erickson, S. Chen, M. Savich, S. Hu and Z. M. Mao  
    *IEEE Vehicular Networking Conference (VNC)*, December 2018
+
+## Master's Thesis
+
+1. <a href="/papers/thesis.pdf" target="_blank">**Taint-Driven Firmware Fuzzing of Embedded Systems**</a>  
+   M. Savich  
+   *New York University's Tandon School of Engineering*, May 2020
 
 ## Workshops
 
