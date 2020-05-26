@@ -6,7 +6,9 @@ layout: default
 
 <img class="profile-picture" src="mksavic.jpg">
 
-I am a second-year graduate student working towards my Master's in Computer Science (with thesis) at NYU's [Tandon School of Engineering](https://engineering.nyu.edu/). I currently am exploring the feasibility and efficiency of taint-driven firmware fuzzing. I am also working on a cache side-channel attack project. I am advised by [Brendan Dolan-Gavitt](http://moyix.net/). I'm also currently working for [Sandia National Laboratories](https://www.sandia.gov/), and am a [Critical Skills Master's Program](https://www.sandia.gov/careers/special_programs/critical_skills_program.html) fellow.
+I do R&D S&E, Cybersecurity (Research & Development, Science & Engineering) at Sandia National Laboratories in Livermore, California. I graduated with my Bachelor of Science in Computer Science and Women's Studies from the University of Michigan in 2018. I graduated with my Master of Science in Computer Science from New York University in 2020. I completed a Master's thesis which was advised by [Brendan Dolan-Gavitt](http://moyix.net/).
+
+I have a variety of interests and hobbies outside the world of technology. Currently my greatest enjoyment is my involvement in the [EDM](edm.md) community. Aside from that, I love nature, hiking, gardening, meditation, and my cat Linux. Feel free to reach me on any of my [socials](contact.md)!
 
 ## Publications
 
