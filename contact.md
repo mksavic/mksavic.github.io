@@ -7,7 +7,7 @@ is_contact: true
 
 ## For Important Stuff
 
-* Email: mksavic AT nyu DOT edu
+* Email: melisasavich AT gmail DOT com
 
 ## Follow Me
 
