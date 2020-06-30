@@ -19,13 +19,13 @@ is_contact: true
 
 ## Future Shows
 
-|          Date           |                      Show                      |
-|:-----------------------:|:----------------------------------------------:|
-|     ~~04/16/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
-|     ~~04/17/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
-|     ~~04/18/2020~~      |    ~~Dabin (Trivecta, Nurko, Last Heroes)~~    |
-| 09/24/2020 - 09/27/2020 |                   Lost Lands                   |
-| 10/01/2020 - 10/04/2020 |          EDC Las Vegas & CampEDC 2020          |
+|            Date             |                   Show                   |
+|:---------------------------:|:----------------------------------------:|
+|       ~~04/16/2020~~        | ~~Dabin (Trivecta, Nurko, Last Heroes)~~ |
+|       ~~04/17/2020~~        | ~~Dabin (Trivecta, Nurko, Last Heroes)~~ |
+|       ~~04/18/2020~~        | ~~Dabin (Trivecta, Nurko, Last Heroes)~~ |
+| ~~09/24/2020 - 09/27/2020~~ |              ~~Lost Lands~~              |
+|   10/01/2020 - 10/04/2020   |       EDC Las Vegas & CampEDC 2020       |
 
 ## Previous Shows
 
