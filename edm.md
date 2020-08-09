@@ -24,7 +24,6 @@ is_contact: true
 |       ~~04/16/2020~~        | ~~Dabin (Trivecta, Nurko, Last Heroes)~~ |
 |       ~~04/17/2020~~        | ~~Dabin (Trivecta, Nurko, Last Heroes)~~ |
 |   09/04/2020 - 09/06/2020   |               Electric Zoo               |
-| ~~09/24/2020 - 09/27/2020~~ |              ~~Lost Lands~~              |
 | ~~10/01/2020 - 10/04/2020~~ |     ~~EDC Las Vegas & CampEDC 2020~~     |
 
 ## Previous Shows
