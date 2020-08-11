@@ -19,12 +19,14 @@ is_contact: true
 
 ## Future Shows
 
-|            Date             |                   Show                   |
-|:---------------------------:|:----------------------------------------:|
-|       ~~04/16/2020~~        | ~~Dabin (Trivecta, Nurko, Last Heroes)~~ |
-|       ~~04/17/2020~~        | ~~Dabin (Trivecta, Nurko, Last Heroes)~~ |
-|   09/04/2020 - 09/06/2020   |               Electric Zoo               |
-| ~~10/01/2020 - 10/04/2020~~ |     ~~EDC Las Vegas & CampEDC 2020~~     |
+|            Date             |                                    Show                                    |
+|:---------------------------:|:--------------------------------------------------------------------------:|
+|       ~~04/16/2020~~        |                  ~~Dabin (Trivecta, Nurko, Last Heroes)~~                  |
+|       ~~04/17/2020~~        |                  ~~Dabin (Trivecta, Nurko, Last Heroes)~~                  |
+|         08/29/2020          | Subtronics w/ Calcium & Level Up @ The Alameda County Fairgrounds Drive-In |
+|   09/04/2020 - 09/06/2020   |                                Electric Zoo                                |
+|         09/10/2020          |             NPOTDF FT. ADVENTURE CLUB + WOOLI - North Carolina             |
+| ~~10/01/2020 - 10/04/2020~~ |                      ~~EDC Las Vegas & CampEDC 2020~~                      |
 
 ## Previous Shows
 
