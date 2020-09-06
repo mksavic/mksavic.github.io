@@ -6,9 +6,7 @@ layout: default
 
 <img class="profile-picture" src="mksavic.jpg">
 
-I do R&D S&E, Cybersecurity (Research & Development, Science & Engineering) in California. I graduated with my Bachelor of Science in Computer Science and Women's Studies from the University of Michigan in 2018. I graduated with my Master of Science in Computer Science from New York University in 2020. I completed a Master's thesis which was advised by [Brendan Dolan-Gavitt](http://moyix.net/).
-
-I have a variety of interests and hobbies outside the world of technology. Currently my greatest enjoyment is my involvement in the [EDM](edm.md) community. Aside from that, I love nature, hiking, gardening, meditation, and my cat Linux. Feel free to reach me on any of my [socials](contact.md)!
+I do R&D S&E, Cybersecurity (Research & Development, Science & Engineering) in California. I graduated with a Bachelor of Science in Computer Science and a Bachelor of Science in Women's Studies from the University of Michigan in 2018. I graduated with a Master of Science in Computer Science from New York University in 2020. During my Master's program, I completed a Master's thesis advised by [Brendan Dolan-Gavitt](http://moyix.net/).
 
 ## Publications
 

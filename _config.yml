@@ -23,7 +23,5 @@ nav:
    link: "cv.pdf"
  - name: "CV of Failures"
    link: "failures"
- - name: "EDM"
-   link: "edm"
  - name: "Contact"
    link: "contact"
